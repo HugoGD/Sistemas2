@@ -40,7 +40,7 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   
 <br>
 <p>――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯―――――――――――――――――――</p>
-## <strong>SPRINT 3. VPN </strong>
+## <strong>SPRINT 4. SSL Windows </strong>
   <br>
    
 [Sprint 4. Certificados SSL Windows](unidad4/unidad4.md)
